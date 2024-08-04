@@ -19,10 +19,12 @@ node index.js
 This will execute the index.js file and print "hello world" to the console.
 
 Table of Weeks and Course Content
-Week	Content
-Week 1	Introduction to Git and GitHub
-Week 2	Node.js Basics and Project Setup
-Week 3	Advanced Git Operations and Collaboration
+--------------------------------------------------------
+| Week     |	Content                                  |
+| Week 1   |	Introduction to Git and GitHub           |
+| Week 2	 | Node.js Basics and Project Setup          |
+| Week 3	 | Advanced Git Operations and Collaboration |
+--------------------------------------------------------
 Course Information
 Course Code: 3813ICT
 Course Title: Software Frameworks
